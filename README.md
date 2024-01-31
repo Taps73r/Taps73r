@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Youmiteru Web Site**
 
-- 🌱 I’m currently learning **TypeScript, TanStack Query**
+- 🌱 I’m currently learning **Next, TypeScript, TanStack Query**
 
 - 💬 Ask me about **React, Node.js**
 
