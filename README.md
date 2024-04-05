@@ -21,4 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taps73r&show_icons=true&locale=en&layout=compact" alt="taps73r" /></p>
 
+<p><img src="https://www.codewars.com/users/Taps73r/badges/large" alt="Code Wars" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taps73r&show_icons=true&locale=en" alt="taps73r" /></p>
